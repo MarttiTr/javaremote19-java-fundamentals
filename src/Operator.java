@@ -132,5 +132,12 @@ public class Operator {
 
         boolean checkNumber = 9 == 9.002312312; // int == float, on võimalik, aga ainult numbritega.
         System.out.println(checkNumber);
+
+        //mostly used operators in real world:
+        // ++, --
+        // +
+        // ==, :=
+        // &&, ::
+        // ?, :
     }
 }
