@@ -37,7 +37,7 @@ public class Operator {
         int d = a + c * b; //Korrutust vaatan enne
         System.out.println(d);
 
-        float z = i * a + (c / b) - (-j) % x; //Esimesena (-j), sest see on unary operator, unary operator alati enne binary operatoryt
+        int z = i * a + (c / b) - (-j) % x; //Esimesena (-j), sest see on unary operator, unary operator alati enne binary operatoryt
         System.out.println(z);
 
 
