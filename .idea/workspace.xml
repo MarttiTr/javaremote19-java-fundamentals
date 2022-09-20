@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="055507c2-ea4e-467b-ad6f-2c03d3da7933" name="Changes" comment="Added operator examples.">
-      <change afterPath="$PROJECT_DIR$/src/Statement.java" afterDir="false" />
+    <list default="true" id="055507c2-ea4e-467b-ad6f-2c03d3da7933" name="Changes" comment="Added Statements">
+      <change afterPath="$PROJECT_DIR$/src/Homework2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperatorHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperatorHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature-first-program" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Statement">
+  <component name="RunManager" selected="Application.Homework2">
     <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataType" />
       <module name="java-fundamentals" />
@@ -60,6 +58,13 @@
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2" />
       <module name="java-fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework2" />
         <item itemvalue="Application.Statement" />
         <item itemvalue="Application.OperatorHomework" />
         <item itemvalue="Application.Operator" />
@@ -160,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663264877393</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added Statements">
+      <created>1663610282306</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663610282306</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +192,7 @@
     <MESSAGE value="Helloworld added" />
     <MESSAGE value="Added datatypes" />
     <MESSAGE value="Added operator examples." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added operator examples." />
+    <MESSAGE value="Added Statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Statements" />
   </component>
 </project>
