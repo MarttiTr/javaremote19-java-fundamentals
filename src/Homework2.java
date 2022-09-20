@@ -1,6 +1,6 @@
 public class Homework2 {
     public static void main(String[] args) {
-
+        //1
         int temp;
         int x = 15;
         int y = 25;
@@ -10,7 +10,6 @@ public class Homework2 {
         y = temp;
 
         System.out.println("x = " + x + " and y = " + y);
-
 
     }
 }
