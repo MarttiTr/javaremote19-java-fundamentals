@@ -13,9 +13,14 @@ public class FIZZBUZZHomework {
          */
 
         //Homework, one line solution for FizzBuzz
-        int j = 0;
-        j++;
-        System.out.println(((j % 3 == 0) && (j % 5 == 0) ? "FIZZBUZZ" : "" ) || (j % 3 == 0 ? "FIZZ" : "" ) || ((j % 5 == 0) ? "Buzz" : "" ));
+        int j = 15;
+        System.out.println((j % 3 == 0 && j % 5 == 0 ? "FIZZBUZZ" : " " ) || (j % 3 == 0 ? "FIZZ" : " " ) || (j % 5 == 0 ? "Buzz" : " " ));
 
+        /*If i run the code:
+          ":17:75
+            java: bad operand types for binary operator '||'
+            first type:  java.lang.String
+            second type: java.lang.String"
+         */
     }
 }
