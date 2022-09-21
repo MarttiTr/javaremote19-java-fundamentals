@@ -68,7 +68,7 @@ public class Operator {
         /* logical operators (&&,||) - and , or      kontrollib kas on loogiliselt korrektne &&(JA) ||(VÕI)!!!
 
             true && false = false
-            false && true = false                   && on ja, || on või
+            false && true = false                   && on ja,
             false && false = false
             true && true = true
          */
@@ -78,7 +78,7 @@ public class Operator {
 
         /*
             true || true = true
-            false || false = false
+            false || false = false                 || on või
             true || false = true
             false || true = true
          */
