@@ -1,6 +1,6 @@
 public class Statement {
     public static void main(String[] args) {
-        int i = 8;
+        int i = 8;                                          //Combining statement makes them nested statements.
         int y = 10;
         String name = "Martti";
 
