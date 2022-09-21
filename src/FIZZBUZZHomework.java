@@ -1,3 +1,8 @@
+/**
+ * Fizzbuzz homework
+ * @author Martti Triksberg
+ */
+
 public class FIZZBUZZHomework {
     public static void main(String[] args) {
 

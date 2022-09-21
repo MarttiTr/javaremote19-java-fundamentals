@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="055507c2-ea4e-467b-ad6f-2c03d3da7933" name="Changes" comment="Added Statements">
-      <change afterPath="$PROJECT_DIR$/src/Homework2.java" afterDir="false" />
+    <list default="true" id="055507c2-ea4e-467b-ad6f-2c03d3da7933" name="Changes" comment="Fizzbuzz homework added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +19,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature-first-program" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/OperatorHomework.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,21 +39,21 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Homework2">
-    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataType" />
+  <component name="RunManager" selected="Application.FIZZBUZZHomework">
+    <configuration name="FIZZBUZZHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIZZBUZZHomework" />
       <module name="java-fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+    <configuration name="Fizzproblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fizzproblem" />
       <module name="java-fundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,20 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator" />
-      <module name="java-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatorHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorHomework" />
-      <module name="java-fundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Statement" />
       <module name="java-fundamentals" />
@@ -91,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StatementExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatementExercises" />
+      <module name="java-fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework2" />
+        <item itemvalue="Application.FIZZBUZZHomework" />
+        <item itemvalue="Application.StatementExercises" />
+        <item itemvalue="Application.Fizzproblem" />
         <item itemvalue="Application.Statement" />
-        <item itemvalue="Application.OperatorHomework" />
-        <item itemvalue="Application.Operator" />
-        <item itemvalue="Application.DataType" />
+        <item itemvalue="Application.Homework2" />
       </list>
     </recent_temporary>
   </component>
@@ -110,70 +99,28 @@
       <option name="presentableId" value="Default" />
       <updated>1663089086645</updated>
     </task>
-    <task id="LOCAL-00001" summary="Initielized new project">
-      <created>1663090351562</created>
+    <task id="LOCAL-00001" summary="Stement exercises added">
+      <created>1663695290640</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1663090351562</updated>
+      <updated>1663695290640</updated>
     </task>
-    <task id="LOCAL-00002" summary="Helloworld added">
-      <created>1663170702236</created>
+    <task id="LOCAL-00002" summary="Fizzbuzz homework added">
+      <created>1663759118706</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1663170702236</updated>
+      <updated>1663759118706</updated>
     </task>
-    <task id="LOCAL-00003" summary="Helloworld added">
-      <created>1663172680554</created>
+    <task id="LOCAL-00003" summary="Fizzbuzz homework added">
+      <created>1663759857039</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1663172680554</updated>
+      <updated>1663759857039</updated>
     </task>
-    <task id="LOCAL-00004" summary="Added datatypes">
-      <created>1663175122064</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1663175122064</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Added datatypes">
-      <created>1663178093398</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1663178093398</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added operator examples.">
-      <created>1663263964433</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1663263964433</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Added operator examples.">
-      <created>1663264211050</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1663264211050</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added operator examples.">
-      <created>1663264877393</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1663264877393</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Added Statements">
-      <created>1663610282306</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1663610282306</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,11 +135,23 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initielized new project" />
-    <MESSAGE value="Helloworld added" />
-    <MESSAGE value="Added datatypes" />
-    <MESSAGE value="Added operator examples." />
-    <MESSAGE value="Added Statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Statements" />
+    <MESSAGE value="Stement exercises added" />
+    <MESSAGE value="Fizzbuzz homework added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fizzbuzz homework added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FIZZBUZZHomework.java</url>
+          <line>1</line>
+          <properties class="FIZZBUZZHomework" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
