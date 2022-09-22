@@ -1,3 +1,5 @@
+package examples;
+
 public class Array {
     public static void main(String[] args) {
 
@@ -6,7 +8,7 @@ public class Array {
         int a = 9;
 
         //Singel-dimensional array
-        //NOTE: Array index always starts with 0. Array´s can contain duplicate elements.
+        //NOTE: examples.Array index always starts with 0. examples.Array´s can contain duplicate elements.
         //int array
         int[] b = {9, 27, 40, 20, 839, 11000, 27 , 40}; // This is array, can use only same type of variable!
 
@@ -15,7 +17,7 @@ public class Array {
 
         System.out.println(fruits[0]);
         System.out.println(b[4]);
-        System.out.println(fruits[3]);  // Array index out of bound
+        System.out.println(fruits[3]);  // examples.Array index out of bound
         System.out.println(b.length);   // Return the number of values in the array
         System.out.println(b.length - 1); // Returns array´s last index
 

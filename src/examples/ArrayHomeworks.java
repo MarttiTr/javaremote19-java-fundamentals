@@ -1,3 +1,5 @@
+package examples;
+
 public class ArrayHomeworks {
     public static void main(String[] args) {
 

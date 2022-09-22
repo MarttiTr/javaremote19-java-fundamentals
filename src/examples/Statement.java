@@ -1,3 +1,5 @@
+package examples;
+
 public class Statement {
     public static void main(String[] args) {
         int i = 8;                                          //Combining statement makes them nested statements.

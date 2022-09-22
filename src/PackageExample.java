@@ -1,7 +1,11 @@
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.LocalTime;
 import java.util.Date;
 import java.util.Random;
+                                        // Ctrl + alt + l = organices code
+                                        // *; is a Wildcard
+
 
 /**
  * Package examples
@@ -26,5 +30,9 @@ public class PackageExample {
 
         LocalDate myBirthday = LocalDate.of(2000, 10, 02);
         System.out.println(myBirthday);
+
+        LocalTime localTime = LocalTime.MIDNIGHT;
+        System.out.println(localTime);
+
     }
 }
