@@ -44,11 +44,5 @@ public class ArrayHomework5  {
                             }
                         }
 
-
-
-
-
-
-
     }
 }
