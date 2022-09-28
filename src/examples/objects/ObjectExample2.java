@@ -7,5 +7,7 @@ public class ObjectExample2 {
         ObjectExample objectExample = new ObjectExample();
         System.out.println(objectExample.name);
 
+        System.out.println(objectExample.age);
+
     }
 }

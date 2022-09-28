@@ -9,17 +9,25 @@ package examples;
 public class DataType {
     //Numbers
     //Primitive datatypes
+
+    byte f = 111;
+    short shortNumber = -32000;
     int a = 1;
     long longNumber = 18298189891289812L;
-    short shortNumber = -32000;
+
+
     float decimalNumber = 2.45f;
     double doubleNumber = 3.456d;
+
+    float result = decimalNumber + a; // Int cant work with a decimal nr
+
+    double result2 = doubleNumber + a; // Double can be working with int nr aswell.
 
     //character
     char alpha = 'f';
 
     //True/false
-    boolean hadLunch = true;  //had lunch?
+    boolean hadLunch = true;  //had lunch? // Boolean default value is false.
     boolean isHoliday = false;
 
     int h; //0
@@ -38,7 +46,7 @@ public class DataType {
     Character random = 't';
     
     Integer number = 5;
-    
+
     Float numberSecond = 2.45F;
     
     Integer randomNUmber; //null
@@ -75,6 +83,7 @@ public class DataType {
         System.out.println(FOOD);
 
         //Instance variables, class variables and local variables
+
     }
     
 

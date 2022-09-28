@@ -8,6 +8,7 @@ package examples.objects;
 
 public class ObjectExample {
     public String name;
+    public int age = 21;
 
     public int a;
 
