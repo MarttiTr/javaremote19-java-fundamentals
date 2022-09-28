@@ -18,13 +18,13 @@ public class Operator {
 
         // post-decrement
         int y = 0;
-        System.out.println(y--);
-        System.out.println(y);
+        System.out.println(y--);  // Value 0
+        System.out.println(y);   // Value -1
 
         // pre-decrement
         int j = 10;
-        System.out.println(j);
-        System.out.println(--j);
+        System.out.println(j);   // Value 10
+        System.out.println(--j); // Value 9
 
         //Sulud annavad prioriteedi
         int x = i + (-j); // x = i - j , 2 - 9 = -7
@@ -121,6 +121,8 @@ public class Operator {
 
         x = x + y; //saab ka korrutamist või jagamist samamoodi kirjutada
         x += y;
+        x /= y; // x = x / y
+        x *= y; // x = x * y
 
 
         //ternary operators (?, :)- you work with 3 variables
