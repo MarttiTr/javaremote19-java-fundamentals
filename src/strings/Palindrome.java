@@ -19,7 +19,10 @@ public class Palindrome {
             reverseWord.append(word.charAt(i));
         }
 
-       if(word.equals(reverseWord)) {
+       if(word.equalsIgnoreCase(reverseWord.toString())) {
+           System.out.println("This is a palindrome");
+       } else {
+           System.out.println("This is not a palindrome");
        }
     }
 
