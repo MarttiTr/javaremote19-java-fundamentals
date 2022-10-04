@@ -1,5 +1,7 @@
 package homework;
 
+import java.util.Scanner;
+
 /**
  * To read a number from user and print the same number like this:
  *
@@ -12,4 +14,15 @@ package homework;
  */
 
 public class IntegerDisplay {
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Write a 1 digit number, which is not 0");
+
+        int Number = scanner.nextInt();
+
+        System.out.println("Number is: " + Number + ", " + Integer.parseInt(Number+""+Number));
+
+    }
 }
