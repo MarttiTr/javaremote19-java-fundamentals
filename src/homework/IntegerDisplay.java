@@ -18,11 +18,23 @@ public class IntegerDisplay {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Write a 1 digit number, which is not 0");
+        System.out.println("Enter a number:");
+        int number = scanner.nextInt();
 
-        int Number = scanner.nextInt();
+        for(int i = 1; i <= number; i++) {  // To print number of times/lines
+            for(int j = 1; j <= i; j++) {   // To print the number of digits
+                System.out.print(number);
+            }
 
-        System.out.println("Number is: " + Number + ", " + Integer.parseInt(Number+""+Number));
+            System.out.println();
+        }
 
+        for(int i = number; i >= 1; i--) {  // To print number of times/lines
+            for(int j = i; j >= 1; j--) {   // To print the number of digits
+                System.out.print(number);
+            }
+
+            System.out.println();
+        }
     }
 }
