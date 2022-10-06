@@ -46,6 +46,9 @@ public class Shopping {
         System.out.println("Choose any product to add to cart:");
         int productChoice = scanner.nextInt();
 
+        Product[] cart = {};
+        cart[0] = products[productChoice];
+
     }
 
 }
